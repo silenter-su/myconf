@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/root/pack/glibc-2.19/manual/examples'
+let g:netrw_dirhist_2='/root/code'
+let g:netrw_dirhist_3='/root/code/statistics.back/hashtest/back'
+let g:netrw_dirhist_4='/root/.vim/colors'
